@@ -6,6 +6,8 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
+[Aa]ssets/**/*.meta
+
 Assets/3RD_PARTY
 Assets/Animation
 Assets/BASE_XR
@@ -18,9 +20,6 @@ Assets/Textures
 Assets/XR
 Packages
 ProjectSettings
-
-# Asset meta data should only be ignored when the corresponding asset is also ignored
-!/[Aa]ssets/**/*.meta
 
 # Visual Studio and Visual Studio Code cache directory
 .vs/
