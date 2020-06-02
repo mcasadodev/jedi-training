@@ -1,6 +1,6 @@
 # Jedi Training
 
-<img src="jedi-training.png" width="100%">
+<img src="img/jedi-training.png" width="100%">
 
 ### TESTED ON OCULUS RIFT
 
